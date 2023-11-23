@@ -1,3 +1,3 @@
 # Portfolio
-# My First Projects as I am teaching myself Python.
+# First Projects teaching myself Python.
 # 
